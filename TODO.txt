@@ -1,0 +1,13 @@
+Add cards for each date number
+Check every number is used in input
+Add goal and current to UI
+Add cards for each possible operation
+When a number is used for the input box fade it out and it cant be clicked again
+
+
+Extension
+A timer?
+Facortial?
+hard mode? Try to get 0 to -5
+hard mode? Maximum time allowed?
+Toggle for keyboard vs clicking the cards and operations
